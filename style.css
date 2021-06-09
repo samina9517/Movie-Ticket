@@ -1,0 +1,43 @@
+*{
+	margin: 0%;
+	box-sizing: border-box;
+	font-family: cursive;
+}
+
+.bg{
+background-image: url(images/cover.jpg);
+
+}
+.container{
+
+}
+.banner{
+  background-position: fixed;
+  font-size: 40px;
+
+}
+.halls{
+
+  padding-top: 150px;
+  width: 100%;
+}
+.cineplex{
+    background-color: #acc716;
+  width: 33.33%;
+  float: left;
+  padding: 25px;
+
+}
+.cineplex a{
+  text-decoration: none;
+color: green;
+}
+.btn {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+	border-color: #e75425;
